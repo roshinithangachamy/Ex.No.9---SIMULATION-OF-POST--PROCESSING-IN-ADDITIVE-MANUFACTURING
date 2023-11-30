@@ -34,16 +34,15 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![POST-PROCESSING pdf (6)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/46e5f99a-771e-40c5-a96e-4bcbd8affd61)
-![POST-PROCESSING pdf (2)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/df71124c-f253-4dea-a0d5-6c8dba04ced6)
-
+![POST-PROCESSING pdf](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/af57a0f2-2975-4dfe-ac14-6b623cc59695)
+![POST-PROSESSING pdf](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/2baca00b-c280-47d7-8061-2e53a0c09184)
 ## UV Curing of 3D printed part
-![POST-PROCESSING pdf (2)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/df138194-2e7a-41b8-acf6-7c3798a3a33a)
-![POST-PROCESSING pdf](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/0187ef1f-71ad-41d3-aa0b-8c3c78337593)
-
+![POST-PROCESSING pdf (2)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/ed112b78-416f-4e74-adb6-5973991e1e17)
+![POST-PROCESSING pdf -](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/35e0fe5a-4a95-4ed8-bde6-206606e03362)
 ## Heat Treatment of 3D printed part
-![POST-PROCESSING pdf (7)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/627d296d-e4fb-4078-93b1-cdfefca1c782)
-![POST-PROCESSING pdf (4)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/aa116d13-1b88-4cf6-a031-168ff8faa071)
+![POST-PROCESSING pdf - (3)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/b1975f83-2253-4820-9ed6-795ecd9dcd28)
+![POST-PROCESSING pdf (3)](https://github.com/roshinithangachamy/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/971bf6d4-7673-49c0-a4b3-eb358afb97d0)
+
 ## Output:
 ### Name:T ROSHINI
 ### Register Number:23011660
